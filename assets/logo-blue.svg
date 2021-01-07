@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="78"
+   height="15"
+   viewBox="0 0 78 15"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="header-logo.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview16"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.9894737"
+     inkscape:cx="47.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Design"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="MuralImages/Intro/1"
+       transform="translate(-17,-17)">
+      <g
+         id="Nav">
+        <g
+           id="Logo"
+           transform="translate(17,17)">
+          <path
+             d="m 0,0 h 4.6646221 l 3.5248502,10.311 h 0.042214 L 11.566574,0 h 4.664622 V 14.994 H 13.128484 V 4.368 H 13.08627 L 9.3925649,14.994 H 6.8386315 L 3.1449262,4.473 H 3.1027124 V 14.994 H 0 Z m 35.178146,0 h 8.126151 c 0.675424,0 1.284,0.10849891 1.825746,0.3255 0.541746,0.21700109 1.006093,0.51449811 1.393055,0.8925 0.386961,0.3780019 0.682455,0.8154975 0.886489,1.3125 0.204034,0.4970025 0.30605,1.0324971 0.30605,1.6065 0,0.8820044 -0.186442,1.6449968 -0.559333,2.289 -0.37289,0.6440032 -0.981466,1.1339983 -1.825745,1.47 v 0.042 c 0.408068,0.1120006 0.745775,0.2834988 1.01313,0.5145 0.267355,0.2310012 0.485458,0.5039984 0.654314,0.819 0.168856,0.3150016 0.291978,0.6614981 0.36937,1.0395 0.07739,0.378002 0.130159,0.755998 0.158302,1.134 0.01407,0.238001 0.02814,0.517998 0.04221,0.84 0.01407,0.322002 0.03869,0.650998 0.07387,0.987 0.03518,0.336002 0.09146,0.654498 0.168855,0.9555 0.07739,0.301002 0.193479,0.556499 0.348263,0.7665 H 44.8451 C 44.662173,14.517998 44.549604,13.951003 44.50739,13.293 44.465176,12.634997 44.401856,12.005003 44.317428,11.403 44.204857,10.618996 43.965648,10.045002 43.599794,9.681 43.233939,9.3169982 42.635917,9.135 41.805708,9.135 h -3.313781 v 5.859 h -3.313781 z m 3.313781,6.783 h 3.630385 c 0.759851,0 1.329732,-0.1679983 1.709658,-0.504 0.379925,-0.3360017 0.569886,-0.8819962 0.569886,-1.638 0,-0.7280036 -0.189961,-1.2564984 -0.569886,-1.5855 C 43.452044,2.7264984 42.882163,2.562 42.122312,2.562 H 38.491927 Z M 55.953353,0 h 3.398209 l 5.635539,14.994 h -3.440422 l -1.139772,-3.339 h -5.635539 l -1.181986,3.339 H 50.254494 Z M 55.63675,9.198 h 3.904774 L 57.641905,3.696 h -0.04221 z M 67.341022,0 h 3.313781 V 12.222 H 78 v 2.772 H 67.341022 Z M 29.146959,0 h 3.015917 c -0.01399,0.44664091 -0.02691,4.2452339 -0.01597,11.995774 0.0024,1.65686 -1.345736,3.001897 -3.011029,3.004225 L 22.111977,15 C 20.446691,15 19.09671,13.656855 19.09671,12.000002 19.124855,4.0303942 19.132446,0.23390786 19.096708,0 h 3.011974 c 0.04449,1.1785071 0.03066,4.2560107 0.0033,12 l 7.019664,2e-6 C 29.121023,4.4823451 29.133275,0.79094371 29.146959,0 Z"
+             id="Combined-Shape"
+             inkscape:connector-curvature="0"
+             style="fill:#3d5afe" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
