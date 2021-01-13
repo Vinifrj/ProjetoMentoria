@@ -1,37 +1,31 @@
 @import url("./variables.css");
 @import url("./reset.css");
+@import url("./header.css");
+@import url("./sectionbanner.css");
+@import url("./sectioncards.css");
 
-.header-container{
-  max-width: 100vw;
-  box-sizing: border-box;
+
+.section-colors{
+  font-size: 18px;
+  font-weight: 400;
   display: flex;
-  position: relative;
-  justify-content: space-between;
-  padding: 15px;
-}
-.header-container img{
-  max-width: 20%;
-}
-.header-container .header-menu a{
-  font-size: 14px;
-  font-weight: 600;
-  padding: 0 23px;
-}
-.header-container button{
-  padding: 10px 32px;
-  border-radius: 25px;
-  font-weight: 700;
-  font-size: 14px;
-  justify-content: flex-end;
-}
-.login-button{
-  background-color: white;
-  color: #3D5AFE;
-  border: 2px solid #3D5AFE;
-}
-.try-button{
-  background-color: #3D5AFE;
-  border: 2px solid transparent;
+  height: 70vh;
+  background-color: var(--c-base);
   color: white;
-
+  margin: 15px;
+}
+.section-colors .title{
+  font-weight: 700;
+}
+.section-colors img{
+  max-width: 50%;
+}
+.section-colors a{
+  font-size: 18px;
+  font-weight: 600;
+  border: 2px solid white;
+  border-radius: var(--b-radius);
+  background-color: var(--c-base);
+  color: white;
+  padding: 12 32px;
 }

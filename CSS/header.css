@@ -1,0 +1,44 @@
+
+.header-container{
+  max-width: 100vw;
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  padding: 15px;
+}
+.header-container img{
+  max-width: 20%;
+}
+.header-container .header-menu{
+  display: inline-block;
+}
+.header-container .header-menu li{
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0 23px;
+  display: inline-block;
+  border-right: 2px solid black;
+}
+.header-container .header-menu li a{
+  color: var(--t-color);
+}
+.header-container button{
+  padding: 10px 32px;
+  border-radius: var(--b-radius);
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--t-color);
+  background-color: var(--c-base);
+  justify-content: flex-end;
+  cursor: pointer;
+}
+.header-container .login-button{
+  --t-color: var(--c-base);
+  border: 2px solid var(--c-base);
+  background-color: white;
+}
+.header-container .try-button{
+  border: 2px solid transparent;
+  --t-color: white;
+}
