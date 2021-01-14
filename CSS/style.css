@@ -3,29 +3,27 @@
 @import url("./header.css");
 @import url("./sectionbanner.css");
 @import url("./sectioncards.css");
+@import url("./sectioncolors.css");
 
-
-.section-colors{
+.section-share{
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  margin: 20px;
+    border: 2px solid red;
+}
+.options{
   font-size: 18px;
   font-weight: 400;
   display: flex;
-  height: 70vh;
-  background-color: var(--c-base);
-  color: white;
-  margin: 15px;
+  justify-content: space-around;
+  margin: 20px;
+  text-align: justify;
+    border: 2px solid red;
 }
-.section-colors .title{
-  font-weight: 700;
+.op1, .op2, .op3{
+    border: 2px solid red;
 }
-.section-colors img{
-  max-width: 50%;
-}
-.section-colors a{
-  font-size: 18px;
-  font-weight: 600;
-  border: 2px solid white;
-  border-radius: var(--b-radius);
-  background-color: var(--c-base);
-  color: white;
-  padding: 12 32px;
+.options img{
+  max-width: 60%;
 }
