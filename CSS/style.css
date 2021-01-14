@@ -8,9 +8,8 @@
 .section-share{
   font-size: 24px;
   font-weight: 700;
-  text-align: center;
   margin: 20px;
-    border: 2px solid red;
+  text-align: center;
 }
 .options{
   font-size: 18px;
@@ -18,12 +17,8 @@
   display: flex;
   justify-content: space-around;
   margin: 20px;
-  text-align: justify;
-    border: 2px solid red;
 }
-.op1, .op2, .op3{
-    border: 2px solid red;
-}
-.options img{
+.option img{
   max-width: 60%;
+  justify-content: center;
 }
