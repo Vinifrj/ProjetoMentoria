@@ -10,6 +10,9 @@
 .section-colors .text{
   margin: 20px;
 }
+.section-colors .text p{
+  margin: 0 40px;
+}
 .section-colors .text p:first-child{
   font-size: 30px;
   font-weight: 700;
@@ -17,7 +20,7 @@
 .section-colors .text a{
   font-size: 18px;
   font-weight: 600;
-  margin-top: 20px;
+  margin: 40px;
   padding: 12px 32px;
   border: 2px solid white;
   border-radius: var(--b-radius);

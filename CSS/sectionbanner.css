@@ -1,6 +1,5 @@
 
 .section-banner{
-  height: 100vh;
   background-color: var(--c-base);
   color: white;
   padding: 15px;
@@ -9,19 +8,21 @@
   align-items: center;
 }
 .section-banner img{
-  max-width: 45%;
+  width: 50%;
 }
 .section-banner h1{
   font-size: 48px;
   font-weight: 700;
+  margin-left: 20px;
 }
 .section-banner p{
   font-size: 18px;
   font-weight: 600;
+  margin-left: 30px;
 }
 .section-banner .banner-links a{
   font-size: 18px;
-  margin: 15px;
+  margin: 25px;
   padding: 12px 32px;
   font-weight: 700;
   display: inline-block;
